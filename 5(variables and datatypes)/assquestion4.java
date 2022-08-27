@@ -9,7 +9,7 @@ public class assquestion4 {
        short s=512;
         double d=99.9954;
         double tot=(f*b)+(i*c)-(d*s);
-        System.out.println(tot);;
+        System.out.println(tot);
 
     }
     
