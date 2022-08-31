@@ -12,7 +12,7 @@ public class touppercase
     
              else{
                 sb.append(str.charAt(i));
-             }};
+             }}
 
             return sb.toString();
         }
