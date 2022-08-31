@@ -2,7 +2,7 @@ public class Searchinmatrix {
     //STAIRCASE SEARCH (BOTTOMLEFTAPPROACH)
 
     public static boolean SEARCH(int matrix[][],int key){
-        int rows=matrix.length-1;;
+        int rows=matrix.length-1;
         int cols=0;
         while(rows<=matrix.length-1 && cols>=0){
             if(matrix[rows][cols]==key){
