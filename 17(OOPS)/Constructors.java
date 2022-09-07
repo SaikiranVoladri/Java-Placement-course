@@ -1,4 +1,5 @@
-public class Constructors {
+public class Constructors
+{
     public static void main(String args[]){
         Student s1 = new Student("sai",20);
         System.out.println(s1.name);
@@ -6,7 +7,8 @@ public class Constructors {
       }
     
 }
-class Student {
+class Student
+{
     String name;
     int age;
 
