@@ -18,4 +18,12 @@ CIRRICULUM:
      
 👉4. 2D Arrays
      - 2D Arrays, Strings
-
+     
+👉5.Problem Solving Techniques
+     -Recursion , Backtracking , Divide And Conquer , Bit Manipulation , Time & Space                    Complexity ,Greedy Algorithms
+     
+👉6.Object Oriented Programming
+    - Basic to Advance OOP
+    
+👉7.Linear Data Structures
+    - ArrayLists , Linked lists , Stacks , Queues
