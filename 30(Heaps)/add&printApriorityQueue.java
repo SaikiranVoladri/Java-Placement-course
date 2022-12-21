@@ -1,6 +1,6 @@
 import java.util.Comparator;
 import java.util.PriorityQueue;
- static class printApriorityQueue{
+ /*static class printApriorityQueue{
 
     public static void main(String[] args) {
         PriorityQueue<Integer>pq= new PriorityQueue<>(Comparator.reverseOrder());// to print reverse order
@@ -18,4 +18,4 @@ import java.util.PriorityQueue;
         }
     }
 
-}
+}*/
