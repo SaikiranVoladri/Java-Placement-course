@@ -31,4 +31,5 @@ CIRRICULUM:
 👉8.Hierarichal Data structures
     - Binary trees  
     - Heaps
+    - Hashmaps
  
