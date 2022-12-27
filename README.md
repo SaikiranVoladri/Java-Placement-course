@@ -32,4 +32,8 @@ CIRRICULUM:
     - Binary trees  
     - Heaps
     - Hashmaps
+
+👉9.Advanced Data structures 
+    - tries
+
  
