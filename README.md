@@ -8,7 +8,8 @@ A Place Where you learn
 CIRRICULUM:
 
 👉1. Basics of Programming 
-     - Flowcharts,Pseudocodes,Variables & Data Types,Conditional Statements,Operaters
+     - Flowcharts,Pseudocodes,Variables & Data Types,Conditional Statements,
+     Operaters
      
 👉2. Loops & Functions
      - For Loop,While Loop,Do-While Loop,Patterns,Functions
