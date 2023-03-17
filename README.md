@@ -39,7 +39,7 @@ CIRRICULUM:
 👉9.Advanced Data structures 
     - tries
     -Dynamic programming
-    -treed
+    -trees
     
 
  
