@@ -9,9 +9,9 @@ public class detectAcycle {
             this.next=null;
         }
     }
-    public static Node head;
-    public static Node tail;
-    public void addfirst(int data){
+   // public static Node head;
+    //public static Node tail;
+    //public void addfirst(int data){
         Node newnode= new Node(data);
         if(head==null){
             head=tail=newnode;
