@@ -10,7 +10,8 @@ public class largestmaximumtree {
          
                 //this.data= data;
                 //this.left= null;
-                this.right=null;
+               //
+         this.right=null;
             }
         }
  public static class Info{
