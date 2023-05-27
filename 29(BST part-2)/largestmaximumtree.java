@@ -19,7 +19,7 @@ public class largestmaximumtree {
      int size;
      int max;
      int min;
-     public Info(  boolean isBst,int size, int min,int max){
+    // public Info(  boolean isBst,int size, int min,int max){
          this.isBst= isBst;
          this.size=size;
          this.min= min;
