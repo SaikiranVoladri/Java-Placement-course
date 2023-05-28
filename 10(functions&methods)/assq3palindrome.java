@@ -1,4 +1,4 @@
-
+// Java basics
 import java.util.*;
 // write a program to print th number is palindrome or not
 public class assq3palindrome {
