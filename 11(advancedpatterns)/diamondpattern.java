@@ -1,4 +1,4 @@
-public class diamondpattern {
+//public class diamondpattern {
     public static void diamond(int n){
         //first half
         for(int i=1;i<=n;i++){ //outer loop
