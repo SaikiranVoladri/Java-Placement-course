@@ -6,12 +6,12 @@
                 //System.out.print(count + " ");
                // count++;
          //   }
-            //System.out.println();
-        }
+//             //System.out.println();
+//         }
 
-    }
-    public static void main(String args[]){
-        floidstriangle(5);
-    }
+//     }
+//     public static void main(String args[]){
+//         floidstriangle(5);
+//     }
     
-}
+// }
