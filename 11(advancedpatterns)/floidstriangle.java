@@ -1,4 +1,4 @@
-public class floidstriangle {
+//public class floidstriangle {
     public static void floidstriangle(int n){
         int count=1;
         for(int i=1;i<=n;i++){
