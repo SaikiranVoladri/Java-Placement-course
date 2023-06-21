@@ -1,4 +1,4 @@
-public class assq2 {
+//public class assq2 {
     //WAP to return true if even and false if odd
     public static boolean iseven(int n){
         
