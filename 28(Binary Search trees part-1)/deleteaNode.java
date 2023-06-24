@@ -2,14 +2,14 @@
      //   static class Node{
            // int data;
           // Node left;
-            //Node right;
+            // Node right;
             Node(int data){
-                this.data= data;
-                this.left=null;
+         //       this.data= data;
+          //      this.left=null;
                 this.right=null;
-            }
+        //    }
         } 
-    
+    //
         public static Node insert(Node root, int arr){
             if(root==null){
                 root=new Node(arr);
