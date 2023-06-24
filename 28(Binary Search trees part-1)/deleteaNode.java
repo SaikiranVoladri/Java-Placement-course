@@ -1,4 +1,4 @@
-public class deleteaNode {
+//public class deleteaNode {
         static class Node{
             int data;
             Node left;
