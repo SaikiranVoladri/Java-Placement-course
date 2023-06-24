@@ -1,6 +1,6 @@
 //public class deleteaNode {
      //   static class Node{
-            int data;
+           // int data;
             Node left;
             Node right;
             Node(int data){
